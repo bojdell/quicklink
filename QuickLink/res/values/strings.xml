@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources>
-
-    <string name="app_name">Quick Link</string>
-    <string name="launch_camera">Launch Camera</string>
-    <string name="dummy_content">DUMMY\nCONTENT</string>
-
-</resources>
