@@ -405,6 +405,7 @@
 				C1F903B31A5A59AD005532C0 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		C1F903B41A5A59AD005532C0 /* Build configuration list for PBXNativeTarget "QuickLinkTests" */ = {
 			isa = XCConfigurationList;
@@ -413,6 +414,7 @@
 				C1F903B61A5A59AD005532C0 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
